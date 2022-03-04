@@ -1,8 +1,0 @@
-wait(1)
-writefile("verify.txt", "To use this script please verify | https://discord.gg/jaN2Ea3HEs , This autofarm will only work if you join the discord")
-print("Success!")
-setclipboard("https://discord.gg/jaN2Ea3HEs")
-wait(1)
-print("Success!")
-wait(2)
-game.Players.LocalPlayer:Kick("Verify in Discord! [Check your exeploit workspace folder or your clipboard!]")
